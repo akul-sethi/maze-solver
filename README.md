@@ -3,15 +3,25 @@ Creates random mazes utilizing Kruskal's algorithm and solve them using DFS and 
 
 # User Guide
 Keybinds:
+
 up - Moves user up in User Mode.
+
 right - Moves user right in User Mode.
+
 left - Moves user left in User Mode.
+
 down - Moves user down in User Mode.
+
 d - Performs a depth-first search.
+
 b - Performs a breadth-first search.
+
 r - Resets the maze.
+
 p - Pathing viewing toggle. When on, shows all visited sqaures in a light blue (defaults to on).
+
 u - User Mode toggle.
+
 s - Shows a gradient indicating how far every square is from the start point assuming the rules of the maze are obeyed. Red indicates close and blue indicates far.
 
 e - Shows a gradient indicating how far every square is from the end point assuming the rules of the maze are obeyed. Red indicates close and blue indicates far.
